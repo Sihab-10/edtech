@@ -39,3 +39,7 @@
   border: none;
   border-radius: 5px;
 }
+.join-button:hover {
+  background-color: #0b5ed7;
+  color: white;
+}
