@@ -21,3 +21,21 @@
   width: 182px;
   height: 56px;
 }
+.join-section {
+  margin-top: 100px;
+  padding: 40px;
+  border-radius: 10px;
+}
+.join-color {
+  background-color: #289bde;
+  color: white;
+}
+.join-button {
+  background-color: white;
+  color: #289bde;
+  font-size: 20px;
+  margin-top: 9px;
+  padding: 8px 13px;
+  border: none;
+  border-radius: 5px;
+}
