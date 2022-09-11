@@ -1,0 +1,23 @@
+.image-height {
+  width: 1296px;
+  height: 680px;
+}
+.slider-text {
+  display: flex;
+  flex-direction: column;
+  padding: 124px 214px;
+  margin-bottom: 50px;
+}
+.slider-text h1 {
+  font-weight: 600;
+  font-size: 65px;
+  line-height: 85px;
+}
+.slider-text p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.slider-button {
+  width: 182px;
+  height: 56px;
+}
